@@ -34,11 +34,6 @@ The gallery displays a collection of images styled as cards with captions. On ho
 <img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/6ba6edf5-ca60-4128-bd5e-1bca0cc1b746" />
 <img width="1918" height="1054" alt="image" src="https://github.com/user-attachments/assets/68a28c00-4ec8-4304-8e22-1d30cf31e186" />
 
-
----
-
-Feel free to customize the images and styles to create your own unique gallery.
-
 ---
 
 Created by [Surbhi Chaudhary]
